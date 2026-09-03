@@ -6,4 +6,4 @@ Contiene proyectos de DevChild que la gente puede descargar y modificar a su gus
 ## Soporte
 Unete al servidor de discord por si tienes alguna duda o directamente estar con la comunidad
 
-https://discord.devchild.xyz
+https://discord.devchild.net
